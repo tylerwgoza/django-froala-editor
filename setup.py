@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name='django-froala-editor',
-    version='1.2.7',
+    version='1.2.7-epb-mod',
     author='Dipesh Acharya',
     author_email='xtranophilist@gmail.com',
     packages=['froala_editor'],
-    url='http://github.com/froala/django-froala-editor/',
+    url='http://github.com/tylerwgoza/django-froala-editor/',
     license='BSD License',
     description='django-froala-editor package helps integrate Froala WYSIWYG HTML editor with Django.',
     long_description=open('README.rst').read(),
